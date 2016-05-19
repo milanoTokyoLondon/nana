@@ -1,3 +1,3 @@
-?	name = Peter
-?	size = 200
-?	email = peter@dir.bg
+?	name = Petafaser
+?	size = asfas
+?	email = afas
